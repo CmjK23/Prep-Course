@@ -1,0 +1,6 @@
+1. Variables: Sirven para almacenar valores de diferentes tipos de datos.
+2. Strings: Son un conjunto de caracteres, para escribir una cadena esta debe estar entre comillas.
+3. Números: Son otro tipo de dato, los pueden ser enteros o reales.
+4. Declaraciones "if": Bloques de código donde se ejecutan o no una serie de instrucciones dependiendo del valor del argumento que es una expresión que retorna un booleano.
+5. Valores booleanos: Con estos se realizan operaciones que corresponden a la lógica de Boole, las cuales deben tener como respuesta otro booleano, los únicos valores existentes son verdadero o falso. 
+ 
