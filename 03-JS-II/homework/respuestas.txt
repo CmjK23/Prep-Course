@@ -1,4 +1,11 @@
+<<<<<<< HEAD
 * "for": Es una sentencia que nos permite realizar varias iteraciones de la ejecución de un bloque de código sabiendo de antemano cuántas serán.
 * "&&": Es el operador lógico "Y", el cual solo podrá devolver un valor "true" si las dos expresiones evaluadas son verdaderas, caso contrario se devolverá un "false".
 * "||": Es el operador lógico "O". Solo se devolverá "false" si las dos expresiones evaluadas son falsas.
 * "!": Es el operador lógico "NOT", el cual invierte el valor de la expresión que se le de.   
+=======
+* "for": Es una sentencia que nos permite realizar varias iteraciones de la ejecución de un bloque de código sabiendo de antemano cuántas seran.
+* "&&": Es el operador lógico "Y", el cual solo podrá devolver un valor "true" si las dos expresiones evaluadas son verdaderas, caso contrario se devolverá un "false".
+* "||": Es el operador lógico "O". Solo se devolverá "false" si las dos expresiones evaluadas son falsas.
+* "!": Es el operador lógico "NOT", el cual revierte el valor de la expresión que se le de.   
+>>>>>>> refs/remotes/origin/main
