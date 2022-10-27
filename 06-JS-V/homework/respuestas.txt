@@ -1,0 +1,2 @@
+* 'prototype': Es una propiedad que todos los objetos tienen, les permite acceder a los métodos de su clase sin que las instrucciones sean replicadas en cada uno de estos objetos para evitar el desperdicio de espacio en la memoria.
+* '_Constructor_': Los constructores sirven para crear múltiples objetos con las mismas propiedades sin tener que repetir el código.
