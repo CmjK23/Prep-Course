@@ -1,0 +1,7 @@
+* Objeto: Es un contenedor de datos, similar a los arreglos pero con la diferencia en que la manera de acceder a estos es mediante claves, además, en lugar de usar corchetes se usan llaves.
+* Propiedades: Son las claves para acceder a los valores almacenados en el objeto.
+* Métodos: Son básicamente funciones que forman parte de un objeto, por lo que para ser invocados se debe indicar su respectivo objeto y propiedad asociada. (Ejm: objeto.propiedad())
+* Bucle 'for...in': Similar a un 'for' pero con la diferencia de que recorre todas las claves de un objeto sin un orden.
+* Notación de puntos vs notación de corchetes: 
+a) Notación de puntos: Después de haber escrito el nombre del objeto, se debe escribir un punto y luego el nombre de la clave para acceder a su valor.
+b) Notación de corchetes: Después de haber escrito el nombre del objeto, se debe escribir entre corchetes el nombre de la propiedad como una cadena para acceder a su valor, esto tiene la ventaja de que se pueden usar variables que almacenan cadenas para referirse a una propiedad.

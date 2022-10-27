@@ -1,0 +1,1 @@
+Arrays: Un arreglo es una estructura de datos, eso quiere decir que agrupa datos, los cuales pueden ser de diferentes tipos, cada uno está indexado por un número entero diferente que varía desde 0 hasta la longitud del arreglo reducida en 1.
