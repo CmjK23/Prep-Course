@@ -1,0 +1,17 @@
+body{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfN44vJzdayHuxbWcc_M-_jnO4_Er7KOQbDg&usqp=CAU);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#firstDiv{
+    padding-left: 60px;
+}
+#secondDiv{
+    width: 1000px;
+    display: flex;
+    margin: 0;
+}
+#thirdDiv{
+    width: 600px;
+    padding-right: 200px;
+}
